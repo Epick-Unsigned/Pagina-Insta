@@ -1,3 +1,8 @@
+/*
+    Arreglar imagen de fondo
+*/
+
+
 const TXT = "Welcome! :D"
 
 const tituloCards = ["Youtube", "Twitch"];
