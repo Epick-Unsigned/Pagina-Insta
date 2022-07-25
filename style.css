@@ -14,11 +14,38 @@
 
 .panel-inferior{
     background-color: rgba(19, 108, 19, 0.696);
+    margin-top: 1%;
 }
+
+
 
 .card-style{
     width: 300px;
     color:rgb(188, 248, 183);
     font-size: 20px;
     background-color: rgba(53, 150, 53, 0.699);
+}
+
+#contenido_cards{
+    margin-top: 2%;
+}
+
+
+
+.estilo-txt{
+    color:rgb(19, 82, 12);
+    background-color: rgba(39, 188, 39, 0.688);
+    border-radius: 13px;
+}
+
+.titulo-card{
+    color: rgba(63, 249, 85, 0.866);
+    font-size: 23px;
+    text-decoration: underline;
+}
+
+.boton-links{
+    background-color:rgb(36, 241, 67);
+    color:rgb(2, 23, 2);
+    font-weight: bold;
 }
