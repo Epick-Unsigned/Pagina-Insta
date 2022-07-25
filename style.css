@@ -1,0 +1,24 @@
+.panel-inicial{
+    background-image: url(img/bg.png);
+    height: 1000px;
+    color: white;
+    font-size: 33px;
+    font-family: monospace;
+}
+
+.imagen-fondo-2{
+    width: 400px;
+    height: 200px;
+    margin-top: 25%;
+}
+
+.panel-inferior{
+    background-color: rgba(19, 108, 19, 0.696);
+}
+
+.card-style{
+    width: 300px;
+    color:rgb(188, 248, 183);
+    font-size: 20px;
+    background-color: rgba(53, 150, 53, 0.699);
+}
